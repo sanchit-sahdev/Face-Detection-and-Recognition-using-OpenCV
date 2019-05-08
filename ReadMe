@@ -1,0 +1,5 @@
+Face detection and recognition in opencv using haarcascades.
+
+Hotkeys while using Webcam:
+a - take a photo of only the face
+q - pause webcam
